@@ -71,7 +71,7 @@ gitlab_username: leopoldomt # your GitLab user name
 twitter_username: leopoldomt # your Twitter handle
 mastodon_username: mastodon.acm.org/@leopoldomt # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: leopoldomt # your LinkedIn user name
-telegram_username: @leopoldomt # your Telegram user name
+telegram_username: leopoldomt # your Telegram user name
 scholar_userid: kCcCrNMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
