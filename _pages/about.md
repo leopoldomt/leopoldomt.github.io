@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor & Head of Graduate Studies @CIn-UFPE
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: lmt.jpg
+  address: >
+    <p>Room C012</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am an assistant professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg) and [CIn-Trust](https://trust.cin.ufpe.br/). Since May/2023, I am also head of graduate studies at our department. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2022, I was a CAPES-Alexander von Humboldt Experienced Research Fellow at the [Chair of Software Engineering](https://www.se.cs.uni-saarland.de/) of [Universität des Saarlandes](https://www.uni-saarland.de/start.html), working with [Sven Apel](https://www.se.cs.uni-saarland.de/apel/index.php) on variability analysis over time and space.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests involve Software Engineering, with a focus on providing strong foundations for improving software quality and productivity. In particular, I have worked on software product lines and configurable systems, refactoring, formal methods, software testing, and mobile development.
+
+I obtained my PhD in Computer Science from the [Federal University of Pernambuco (CIn-UFPE)](https://www.cin.ufpe.br) in 2014, under the supervision of [Paulo Borba](https://pauloborba.github.io) and [Rohit Gheyi](http://www.dsc.ufcg.edu.br/~rohit/). During my PhD, I spent a winter term at the [University of Waterloo](https://uwaterloo.ca), working with [Krzysztof Czarnecki](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/people-profiles/krzysztof-czarnecki). My MSc degree in Computer Science was also obtained at [CIn-UFPE](https://www.cin.ufpe.br) (2010), and prior to that I obtained a bachelor's degree in Computer Engineering from the [Polytechnic School of Pernambuco](http://poli.upe.br) (2007). 
