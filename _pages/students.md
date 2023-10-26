@@ -42,7 +42,7 @@ nav: true
     * As of October 2023: Software Engineer @ [CESAR](https://www.cesar.org.br/)
 *   [Gabriel Ibson de Souza](https://www.linkedin.com/in/gabriel-ibson/). _On the challenges and architectural impacts of introducing gamification into a software system: The VazaZika case study._. (MSc 2019)
     * As of October 2023: Senior Java Software Engineer @ [Construo AG](https://www.construo.ch/en)
-*   Victor Laerte de Oliveira. _An Empirical Study on the Adoption of the Kotlin Programming Language for Android Development_. (MSc 2019)
+*   [Victor Laerte de Oliveira](https://www.linkedin.com/in/victorlaerte/). _An Empirical Study on the Adoption of the Kotlin Programming Language for Android Development_. (MSc 2019)
     * As of October 2023: Head of Mobile at [AllowMe (by Tempest Security Intelligence)](https://www.allowme.cloud/)
 *   [Bruce Fabian Reis Albuquerque](https://www.linkedin.com/in/bruce-albuquerque-906b2330/). _Evaluating the consistency of government sites to the coding guidelines from the web standards of electronig government (e-PWG)_. (MSc 2018)
     * As of October 2023: IT Analyst @ [IFRO](https://www.ifro.edu.br/)
