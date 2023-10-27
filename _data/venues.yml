@@ -4,3 +4,18 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"TSE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
+
+"JSS":
+  url: https://www.sciencedirect.com/journal/journal-of-systems-and-software
+
+"IST":
+  url: https://www.sciencedirect.com/journal/information-and-software-technology
+
+"SoSym":
+  url: https://www.sosym.org/
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
