@@ -19,3 +19,12 @@
 
 "TOSEM":
   url: https://dl.acm.org/journal/tosem
+
+"SCP":
+  url: https://www.sciencedirect.com/journal/science-of-computer-programming
+
+"EMSE":
+  url: https://www.springer.com/journal/10664
+
+"TCS":
+  url: https://www.sciencedirect.com/journal/theoretical-computer-science
