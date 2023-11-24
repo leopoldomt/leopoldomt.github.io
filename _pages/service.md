@@ -61,7 +61,7 @@ nav: true
 </div> 
 {% endcomment %} -->
 
-### 2024
+### 2025
 
 *   [PC Chair, Research Track of the Brazilian Symposium on Software Engineering (SBES)](#)
 *   [PC Member, 47th International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2025)
