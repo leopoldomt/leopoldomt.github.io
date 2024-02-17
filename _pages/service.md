@@ -71,6 +71,11 @@ nav: true
 *   [Conference Chair, ACM International Conference on the Foundations of Software Engineering (FSE)](https://2024.esec-fse.org/)
 *   [PC Chair, 18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2024.inf.unibe.ch/)
 *   [PC Chair, Insightful Ideas and Emerging Results Track of the Brazilian Symposium on Software Engineering (SBES)](https://cbsoft2023.ufms.br/sbes/ideias)
+*   [PC Member, ACM International Systems and Software Product Line Conference (SPLC)](https://2024.splc.net/)
+*   [PC Member, New Ideas and Emerging Results Track of the International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track)
+*   [PC Member, Brazilian Symposium on Software Engineering (SBES)](https://cbsoft.sbc.org.br/2024/sbes/pesquisa/?lang=en)
+*   [Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)](http://tosem.acm.org/)
+*   [Reviewer, Journal of Software Engineering Research and Development (JSERD)](https://sol.sbc.org.br/journals/index.php/jserd/)
 
 ### 2023
 
