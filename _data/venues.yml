@@ -26,5 +26,68 @@
 "EMSE":
   url: https://www.springer.com/journal/10664
 
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org
+
 "TCS":
   url: https://www.sciencedirect.com/journal/theoretical-computer-science
+
+"ComLan":
+  url: https://www.sciencedirect.com/journal/journal-of-computer-languages
+
+"RE":
+  url: https://link.springer.com/journal/766
+
+"SBQS":
+  url: https://dblp.org/db/conf/sbqs/index.html
+
+"SBES":
+  url: https://dblp.org/db/conf/sbes/index.html
+
+"ICSE":
+  url: https://dblp.org/db/conf/icse/index.html
+
+"ASE":
+  url: https://dblp.org/db/conf/kbse/index.html
+
+"ICST":
+  url: https://dblp.org/db/conf/icst/index.html
+
+"SBLP":
+  url: https://dblp.org/db/conf/sblp/index.html
+
+"ICSME":
+  url: https://dblp.org/db/conf/icsm/index.html
+
+"SBMF":
+  url: https://dblp.org/db/conf/sbmf/index.html
+
+"SANER":
+  url: https://dblp.org/db/conf/wcre/index.html
+
+"SPLC":
+  url: https://dblp.org/db/conf/splc/index.html
+
+"VaMoS":
+  url: https://dblp.org/db/conf/vamos/index.html
+
+"SAST":
+  url: https://dblp.org/db/conf/sast/index.html
+
+"GPCE":
+  url: https://dblp.org/db/conf/gpce/index.html
+
+"SBCARS":
+  url: https://dblp.org/db/conf/sbcars/index.html
+
+"SEKE":
+  url: https://dblp.org/db/conf/seke/index.html
+
+"FOSD":
+  url: https://dblp.org/db/conf/fosd/index.html
+
+"ICTAC":
+  url: https://dblp.org/db/conf/ictac/index.html
+
+"Onward!":
+  url: https://dblp.org/db/conf/onward/index.html

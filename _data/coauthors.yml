@@ -80,7 +80,7 @@
 
 "Lima":
   - firstname: ["Rodrigo", "R."]
-    url: #
+    url: https://www.linkedin.com/in/rodrigoliimaa/
 
 "Reps":
   - firstname: ["Thomas", "T.", "T. W.", "Thomas W."]
@@ -193,3 +193,7 @@
 "Queiroz":
   - firstname: ["Ruy", "Ruy J. G. B De"]
     url: https://www.cin.ufpe.br/~ruy/
+
+"Britto":
+  - firstname: ["Gabriela", "Gabriela Araujo"]
+    url: https://www.linkedin.com/in/gabriela-araujo-britto-12755b182/
