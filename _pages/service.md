@@ -64,7 +64,7 @@ nav: true
 ### 2025
 
 *   [PC Chair, Research Track of the Brazilian Symposium on Software Engineering (SBES)](#)
-*   [PC Member, 47th International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2025)
+*   [PC Member, 47th International Conference on Software Engineering (ICSE) [Research track, NIER track]](https://conf.researchr.org/home/icse-2025)
 
 ### 2024
 
@@ -72,9 +72,13 @@ nav: true
 *   [PC Chair, 18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2024.inf.unibe.ch/)
 *   [PC Chair, Insightful Ideas and Emerging Results Track of the Brazilian Symposium on Software Engineering (SBES)](https://cbsoft2023.ufms.br/sbes/ideias)
 *   [PC Member, ACM International Systems and Software Product Line Conference (SPLC)](https://2024.splc.net/)
+*   [PC Member, ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://2024.splashcon.org/home/gpce-2024)
 *   [PC Member, New Ideas and Emerging Results Track of the International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track)
 *   [PC Member, Brazilian Symposium on Software Engineering (SBES)](https://cbsoft.sbc.org.br/2024/sbes/pesquisa/?lang=en)
+*   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](https://cbsoft.sbc.org.br/2024/sbcars/?lang=en)
+*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://sbmf24.ifes.edu.br/)
 *   [Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)](http://tosem.acm.org/)
+*   [Reviewer, Journal of Systems and Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software/)
 *   [Reviewer, Journal of Software Engineering Research and Development (JSERD)](https://sol.sbc.org.br/journals/index.php/jserd/)
 
 ### 2023
