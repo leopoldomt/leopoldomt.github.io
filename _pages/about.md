@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor & Head of Graduate Studies @CIn-UFPE
+description: Associate Professor & Head of Graduate Studies @CIn-UFPE
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am an assistant professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg) and [CIn-Trust](https://trust.cin.ufpe.br/). Since May/2023, I am also head of graduate studies at our department. 
+Hi there! I am an associate professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg) and [CIn-Trust](https://trust.cin.ufpe.br/). Since May/2023, I am also head of graduate studies at our department. 
 
 In 2022, I was a CAPES-Alexander von Humboldt Experienced Research Fellow at the [Chair of Software Engineering](https://www.se.cs.uni-saarland.de/) of [Universität des Saarlandes](https://www.uni-saarland.de/start.html), working with [Sven Apel](https://www.se.cs.uni-saarland.de/apel/index.php) on variability analysis over time and space.
 
