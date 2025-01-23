@@ -61,10 +61,15 @@ nav: true
 </div> 
 {% endcomment %} -->
 
+### 2026
+
+*   [PC Member, 48th International Conference on Software Engineering (ICSE) [Research track]](https://conf.researchr.org/home/icse-2026)
+
 ### 2025
 
-*   [PC Chair, Research Track of the Brazilian Symposium on Software Engineering (SBES)](#)
-*   [PC Member, 47th International Conference on Software Engineering (ICSE) [Research track, NIER track]](https://conf.researchr.org/home/icse-2025)
+*   [PC Chair (with Silvia Vergilio), Research Track of the Brazilian Symposium on Software Engineering (SBES)](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/?lang=en)
+*   [PC Chair (with Maurice ter Beek), Research Track of the Brazilian Symposium on Formal Methods (SBMF)](#)
+*   [PC Member, 47th International Conference on Software Engineering (ICSE) [Research track & NIER track]](https://conf.researchr.org/home/icse-2025)
 
 ### 2024
 
