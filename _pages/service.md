@@ -74,6 +74,7 @@ nav: true
 * [PC Member, ACM International Systems and Software Product Line Conference (SPLC)](https://2025.splc.net/)
 * [PC Member, International Conference on Evaluation and Assessment in Software Engineering (EASE) [Short Papers, Emerging Results track]](https://conf.researchr.org/committee/ase-2025/ase-2025-papers-program-committee)
 * [PC Member, XXVIII Ibero-American Conference on Software Engineering (CIbSE)](https://conf.researchr.org/committee/cibse-2025/cibse-2025-program-committee)
+* [Reviewer, Theoretical Computer Science (TCS)](https://www.journals.elsevier.com/theoretical-computer-science)
 
 
 ### 2024
@@ -88,8 +89,10 @@ nav: true
 *   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](https://cbsoft.sbc.org.br/2024/sbcars/?lang=en)
 *   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://sbmf24.ifes.edu.br/)
 *   [Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)](http://tosem.acm.org/)
+*   [Reviewer, IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse)
 *   [Reviewer, Journal of Systems and Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software/)
 *   [Reviewer, Journal of Software Engineering Research and Development (JSERD)](https://sol.sbc.org.br/journals/index.php/jserd/)
+*   [Reviewer, Theoretical Computer Science (TCS)](https://www.journals.elsevier.com/theoretical-computer-science)
 
 ### 2023
 
@@ -100,8 +103,8 @@ nav: true
 *   [PC Member, Insightful Ideas and Emerging Results Track of the Brazilian Symposium on Software Engineering (SBES)](https://cbsoft2023.ufms.br/sbes/ideias)
 *   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](https://cbsoft2023.ufms.br/sbcars)
 *   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://sbmf23.ufam.edu.br/)
-*   [Reviewer, IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse)
 *   [Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)](http://tosem.acm.org/)
+*   [Reviewer, IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse)
 *   [Reviewer, Journal of Systems and Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software/)
 *   [Reviewer, Software Testing, Verification and Reliability (STVR)](https://www.journals.elsevier.com/journal-of-systems-and-software/)
 
