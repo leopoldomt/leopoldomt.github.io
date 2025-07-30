@@ -8,16 +8,17 @@ nav: true
 
 ### Current PhD Students
 
-*   Jairo Raphael Moreira Correia de Souza (PhD)
-*   Karine Galdino Maia Gomes (PhD)
-*   Rodrigo dos Santos Lima (PhD)
-*   Rodrigo José Sarmento Peixoto (PhD)
-*   Thayonara de Pontes Alves (PhD)
+*   Jairo Raphael Moreira Correia de Souza
+*   Karine Galdino Maia Gomes
+*   Rodrigo dos Santos Lima
+*   Rodrigo José Sarmento Peixoto
+*   Thayonara de Pontes Alves
 
 ### Current MSc Students
 
-*   Igor Nascimento dos Santos (MSc)
-*   Nayse Fagundes (MSc)
+*   Andrezza Bonfim
+*   Giovanna Trigueiro
+*   Nayse Fagundes
 
 
 ### Past students
