@@ -64,6 +64,8 @@ nav: true
 ### 2026
 
 * [PC Member, 48th International Conference on Software Engineering (ICSE) [Research track & NIER track]](https://conf.researchr.org/home/icse-2026)
+* [PC Member, 41st IEEE/ACM International Conference on Automated Software Engineering (ASE) [Research track]](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+* [PC Member, Brazilian Symposium on Software Engineering (SBES)](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/pesquisa/call/)
 
 ### 2025
 
