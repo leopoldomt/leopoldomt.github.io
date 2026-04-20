@@ -8,11 +8,11 @@ nav: true
 
 ### Current PhD Students
 
-*   Jairo Raphael Moreira Correia de Souza
-*   Karine Galdino Maia Gomes
-*   Rodrigo dos Santos Lima
-*   Rodrigo José Sarmento Peixoto
-*   Thayonara de Pontes Alves
+* Jairo Raphael Moreira Correia de Souza
+* Karine Galdino Maia Gomes
+* Rodrigo dos Santos Lima
+* Rodrigo José Sarmento Peixoto
+* Thayonara de Pontes Alves
 
 ### Current MSc Students
 
@@ -26,6 +26,7 @@ nav: true
 ### Past students
 
 *   [Nayse da Silva Fagundes](https://www.linkedin.com/in/nayse/). _Evaluating LLMs for Multimodal GUI Test Generation in Android Applications_. (MSc 2025)
+    * As of February 2026: AI/ML Researcher @ [Instituto de Ciência e Tecnologia Itaú (ICTi)](https://www.icti.org.br)
 *   [Tayná Larissa Fischer Vieira](https://www.linkedin.com/in/tayn%C3%A1-larissa-fischer-vieira-b4b93a98/). _A Framework of Memoization and Variational Lift using Interpreters_. (MSc 2025, co-advised with [Vander Alves](https://cic.unb.br/~valves/))
     * As of July 2025: Software Engineer @ [Systems Development Center - Brazilian Army](http://www.cds.eb.mil.br)
 *   [Bruno Matissek Worm](https://www.linkedin.com/in/bruno-matissek/). _Evolution-aware static analysis of software product lines_. (MSc 2024, co-advised with [Vander Alves](https://cic.unb.br/~valves/))

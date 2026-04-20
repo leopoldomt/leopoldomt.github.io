@@ -1,3 +1,19 @@
+@inproceedings{LSF+:EASE26,
+  author    = {Rodrigo Lima and Jairo Souza and Baldoino Fonseca and Leopoldo Teixeira and Márcio Ribeiro},
+  title     = {Can Small LLMs Detect Defect-Prone Code Smells? An Empirical Evaluation of 8B-30B Models Against a Ground-Truth Dataset},
+  booktitle = {International Conference on Evaluation and Assessment in Software Engineering - AI Models/Data track},
+  acronym   = {EASE}, 
+  location  = {Glasgow, United Kingdom}, 
+  month     = {June},
+  abbr      = {EASE},
+  publisher = {{ACM}},
+  abstract = {Code smells are structural indicators of design problems, yet not all smells are equally harmful—only a fraction co-occurs with actual software defects. While Large Language Models (LLMs) are increasingly used for code analysis tasks, most evaluations rely on large proprietary models (e.g., GPT-4, Claude), leaving open whether smaller, locally deployable models can perform comparably. More importantly, the ability of any LLM to distinguish defect-prone (harmful) smells from benign ones remains underexplored. We present an empirical study evaluating four small, open-source LLMs (8B–30B parameters: Qwen3-Coder 30B, DeepSeek-Coder-V2 16B, Llama 3.1 8B, and Granite 3.1 Dense 8B)—all runnable on consumer hardware via Ollama—on two tasks: (1) detecting code smells in real-world code, and (2) classifying detected smells as harmful (co-occurring with bugs) or merely smelly. We build a metric-augmented SZZ dataset comprising 269,513 code smell instances and 13,590 bug locations mined from 10 open-source Java and Python projects via static analysis and the SZZ algorithm, from which we draw a stratified sample of 1,200 labeled snippets (600 harmful, 600 merely smelly) for LLM evaluation. Our results show that small LLMs achieve variable accuracy for smell detection (average F1: 0.20–0.67 depending on model and prompting strategy), with substantial variation across smell types—God Class (F1 up to 0.88) and Long Method (F1 up to 0.81) are detected reliably, while design smells like Feature Envy and Inappropriate Intimacy remain challenging for most models. For the novel harmfulness classification task, all models achieve MCC values near zero (−0.19 to 0.10), revealing a fundamental gap: even when small LLMs recognize structural anomalies, they cannot reliably assess their defect-inducing potential from code alone. Notably, prompting strategy has a dramatic model-dependent effect—one-shot prompting doubles Llama 3.1's detection F1 from 0.25 to 0.67, while chain-of-thought is most effective for Qwen3-Coder. We release our labeled dataset and evaluation framework as reusable artifacts for future research on AI-driven code quality assessment.},
+  year = {2026},
+  publisher = {ACM Digital Library},
+  address = {USA},
+  series = {EASE'26}
+}
+
 @inproceedings{CT:MSR26,
   author    = {Tales Cunha and Leopoldo Teixeira},
   title     = {Test Coverage of Code Changes in AI-Generated Pull Requests},
