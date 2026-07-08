@@ -64,11 +64,11 @@
 
 "Oliveira":
   - firstname: ["Victor", "V."]
-    url: http://brunocartaxo.com
+    url: https://www.victorlaerte.com
 
 "Ebert":
   - firstname: ["Felipe", "F."]
-    url: http://brunocartaxo.com
+    url: https://felipeebert.github.io
 
 "Garcia":
   - firstname: ["Alessandro", "A.", "Alessandro F.", "A. F."]
@@ -217,3 +217,11 @@
 "Schultheiss":
   - firstname: ["Alexander", "A."]
     url: https://alexanderschultheiss.github.io
+
+"Assunção":
+  - firstname: ["Wesley", "W.", "Wesley K. G.", "W. K. G."]
+    url: https://wesleyklewerton.github.io
+
+"Bonfim":
+  - firstname: ["Andrezza", "A."]
+    url: https://www.linkedin.com/in/andrezzabonfim/
