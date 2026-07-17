@@ -1,3 +1,25 @@
+@article{SCC+:IST26, 
+  title={Exception Handling Bugs in Python: An Empirical Study of Root Causes, Fix Patterns, and Anti-Patterns}, 
+  abstractNote={Context: Exception handling mechanisms are designed to manage abnormal events that disrupt normal program execution, helping software recover from unexpected situations. However, defects in exception handling mechanisms can introduce errors, crashes, and unexpected behavior, reducing system reliability. Despite widespread adoption of Python, exception handling bugs in Python projects remain largely underexplored. Objectives: This study aims to investigate the characteristics of exception handling bugs in Python projects by analyzing their root causes, fix patterns, and their relationship with anti-patterns (exception handling anti-patterns). Methods: We conducted a large-scale empirical study on 550 open-source Python projects. Using our Exception Miner tool and manual validation, we analyzed 942 confirmed exception handling bugs identified from 1,649 bug candidates extracted from issue reports and associated commits. Results: Our analysis identified 12 root causes and 25 fix patterns. The most common root cause is Unhandled Exception, accounting for 50.64% of the analyzed cases. The most frequent repair strategies include adding exception handling blocks, changing exception types, and introducing appropriate raise conditions, which together account for approximately 60% of the fixes. A before-and-after analysis shows that many exception handling anti-patterns were preserved from the buggy version, while fixes still introduced an increase of 196 exception handling anti-patterns occurrences. Conclusion: The results reveal systematic relationships between root causes and repair strategies, indicating that exception handling bugs often follow predictable patterns. These findings provide insights to improve testing practices and design automated tools to detect and repair exception handling bugs in Python projects.}, 
+  journal={Information and Software Technology}, 
+  author={Jairo Souza and Eric Coelho and João Correia and Rodrigo Lima and Leopoldo Teixeira and Baldoino Fonseca}, 
+  year={2026}, 
+  selected  = {true},
+  abbr      = {IST}
+}
+
+@inproceedings{CostaTeixeira:SBLP26,
+ author = {Victor Costa and Leopoldo Teixeira},
+ title = {Bleach: A Programming Language for Teaching Compilers},
+ booktitle = {Proceedings of the XXX Brazilian Symposium on Programming Languages, São Paulo, Brazil},
+ location = {São Paulo/SP},
+ year = {2026},
+ abbr = {SBES},
+ selected  = {false},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil}
+}
+
 @inproceedings{SouzaALATF:SBES26,
  author = {Jairo Souza and Tales Alves and Rodrigo Lima and Ericlecio Araujo and Leopoldo Teixeira and Baldoino Fonseca},
  title = {An Empirical Evaluation of Using Large Language Models to Recommend Exception Handling Tasks},
