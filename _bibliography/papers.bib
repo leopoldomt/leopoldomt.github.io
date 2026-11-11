@@ -36,8 +36,13 @@
  abbr = {SBES},
  selected  = {false},
  publisher = {SBC},
- address = {Porto Alegre, RS, Brasil}
+ address = {Porto Alegre, RS, Brasil},
+ issn = {2833-0633},
+ pages = {193--203},
+ doi = {10.5753/sbes.2026.25759},
+ url = {https://sol.sbc.org.br/index.php/sbes/article/view/47157}
 }
+
 
 @inproceedings{BonfimTeixeira:SBES26,
  author = {Andrezza Bonfim and Leopoldo Teixeira},
@@ -50,7 +55,11 @@
  abbr = {SBES},
  selected  = {false},
  publisher = {SBC},
- address = {Porto Alegre, RS, Brasil}
+ address = {Porto Alegre, RS, Brasil},
+ issn = {2833-0633},
+ pages = {215--225},
+ doi = {10.5753/sbes.2026.25776},
+ url = {https://sol.sbc.org.br/index.php/sbes/article/view/47159}
 }
 
 @inproceedings{SilvaTAC:SBES26,
@@ -63,8 +72,12 @@
  abbr = {SBES},
  pdf = {2026-sbes-arthur.pdf},
  selected  = {false},
+ issn = {2833-0633},
+ pages = {564--575},
  publisher = {SBC},
- address = {Porto Alegre, RS, Brasil}
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sbes.2026.26194},
+ url = {https://sol.sbc.org.br/index.php/sbes/article/view/47190}
 }
 
 @inproceedings{TD:SBCARS26,
@@ -88,11 +101,14 @@
  location = {São Paulo/SP},
  year = {2026},
  abbr = {SAST},
+ pages = {49--58},
  selected  = {false},
  pdf = {2026-sast.pdf},
  publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
  abstract = {Flaky tests pass or fail non-deterministically on unchanged code, eroding trust in test suites and inflating the cost of every failure. Shaker detects  them by injecting resource contention (CPU, memory, and I/O stress) to  amplify non-determinism caused by concurrent execution, and was reported to  detect 95\% of the flaky tests in a Java and Android benchmark against 37.5\% for plain re-execution (ReRun). We present the first empirical evaluation of Shaker for Python. Drawing non-order-dependent flaky tests from the ground-truth dataset of Gruber et al., we compare Shaker against a budget-matched ReRun baseline in a paired design, giving both techniques the same number of test executions: Each of 137 tests is run 100 times under each. As configured for Java and Android, Shaker provides no statistically significant detection advantage over plain re-execution (37.2\% vs.\ 35.8\%; McNemar exact p = 0.84). Two findings explain why. First, fewer than half of the ground-truth flaky tests reproduce as flaky at all on independent hardware under either technique, and most of the tests that fail to reproduce never diverge once across 100 runs. Second, the tests that do reproduce are dominated by flakiness from network interactions and randomness rather than the concurrency Shaker targets. Beyond the tool, this exposes a broader hazard for the field: reusing a flaky-test ground truth across execution environments silently converts genuine flaky tests into apparent true negatives, deflating any tool's measured recall.},
- address = {Porto Alegre, RS, Brasil}
+ doi = {10.5753/sast.2026.30984},
+ url = {https://sol.sbc.org.br/index.php/sast/article/view/45859}
 }
 
 @inproceedings{CostaTeixeira:SBLP26,
@@ -104,9 +120,12 @@
  abbr = {SBLP},
  selected  = {false},
  pdf = {2026-sblp.pdf},
- publisher = {SBC},
  abstract = {Programming languages designed as teaching tools for undergraduate Compilers courses occupy a constrained design space. Existing options such as COOL and MiniJava are deliberately minimal and statically typed, while ChocoPy targets compilation rather than interpretation. This paper presents Bleach, a dynamically typed, object-oriented programming language with a tree-walk interpreter implemented in C++, designed to fill the gap left by these alternatives. Structurally inspired by Lox (from Crafting Interpreters), Bleach extends it with multi-line comments, do-while and for loops, elif clauses, a ternary operator, a list type, break/continue statements, an expanded standard library, and a resolver that statically detects ten distinct classes of scoping and control-flow errors. We present the language’s design rationale, describe the architecture and key implementation decisions of its interpreter, and compare Bleach feature-by-feature with ChocoPy, COOL, and MiniJava, positioning it in the space of compiler-teaching languages. We validated the interpreter through a 44-case test suite covering all AST node types and by implementing eleven standard algorithms and data structures in the language; all test cases pass, and every algorithm runs correctly without modification to the language. We also outline how Bleach can be incorporated into a 15-week undergraduate Compilers course.},
- address = {Porto Alegre, RS, Brasil}
+ pages = {117--124},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sblp.2026.28580},
+ url = {https://sol.sbc.org.br/index.php/sblp/article/view/46197}
 }
 
 @inproceedings{TS:VEM26,
@@ -117,10 +136,13 @@
  year = {2026},
  abbr = {VEM},
  selected  = {false},
- publisher = {SBC},
  pdf = {2026-vem.pdf},
  abstract = {Django is a widely used Python web framework for database-backed application development. As with any actively used framework, Django projects can accumulate code smells: patterns that do not break functionality but signal design or implementation choices likely to hurt maintainability, readability, or performance. Existing Django-aware static analysis tools primarily target schema- and configuration-level issues, leaving performance-oriented and behavioral smells largely unaddressed. This repository contains an open-source static analysis tool, derived from a review of Django-focused grey literature, that detects five Django-specific smells spanning the Model, View, and Template layers. It uses Python's built-in ast module for checks within Python code, and a lightweight regex-based tokenizer over HTML templates. The accompanying paper investigates three research questions concerning the catalog's provenance (RQ1), its prevalence in real-world projects (RQ2), and the reliability of automated detection (RQ3). The tool was applied to a sample of 33 public Django repositories of varying size, where it flagged 4,157 occurrences across the five smells; a manual inspection of 50 flagged occurrences (44 of them genuine, 88% overall precision) indicates the tool's detections are reasonably but not uniformly reliable across smells.},
- address = {Porto Alegre, RS, Brasil}
+ pages = {179--183},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/vem.2026.32893},
+ url = {https://sol.sbc.org.br/index.php/vem/article/view/46413}
 }
 
 @article{PTF:JBCS26, 
