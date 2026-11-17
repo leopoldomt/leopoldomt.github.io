@@ -24,10 +24,15 @@ class Links(HTMLParser):
         super().__init__()
         self.links = []
         self.ids = set()
+        self.canonicals = []
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         if attrs.get('id'):
             self.ids.add(attrs['id'])
+        if tag == 'link' and attrs.get('href'):
+            rel_tokens = {t.strip().lower() for t in attrs.get('rel', '').split() if t.strip()}
+            if 'canonical' in rel_tokens:
+                self.canonicals.append(attrs['href'])
         for key in ('href', 'src', 'poster'):
             if attrs.get(key):
                 self.links.append(attrs[key])
@@ -44,6 +49,8 @@ for path in contracts:
 
 home = (root / 'index.html').read_text()
 pubs = (root / 'publications/index.html').read_text()
+home_parser = Links()
+home_parser.feed(home)
 check('Leopoldo Teixeira' in home, 'Home: missing name')
 check('lmt.jpg' in home, 'Home: missing profile image')
 check('Room C012' in home, 'Home: missing office')
@@ -51,7 +58,7 @@ check('selected publications' in home, 'Home: missing selected publications')
 latest_news = max(Path('_news').glob('*.md'))
 latest_title = re.search(r'^title:\s*(.+)$', latest_news.read_text(), re.M).group(1).strip('\"\'')
 check(latest_title in unescape(home), 'Home: missing latest news')
-check('https://leopoldomt.github.io/' in home, 'Home: missing production canonical URL')
+check(any(urljoin(origin + '/', c) == origin + '/' for c in home_parser.canonicals), 'Home: missing production canonical URL')
 check('/al-folio/' not in home, 'Home: leaked starter baseurl')
 check('Albert Einstein' not in home + pubs, 'Leaked starter identity')
 # Compare actual BibTeX keys with rendered publication anchors using a build-
