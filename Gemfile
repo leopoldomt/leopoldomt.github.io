@@ -4,7 +4,8 @@ gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-3rd-party-libraries'
+    # Upstream 0.0.1 caps css_parser below its security fix; see gems/.../README.md.
+    gem 'jekyll-3rd-party-libraries', '= 0.0.1', path: 'gems/jekyll-3rd-party-libraries'
     gem 'jekyll-archives-v2'
     gem 'jekyll-cache-bust'
     gem 'jekyll-email-protect'
@@ -29,7 +30,8 @@ end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
-    gem 'css_parser'
+    gem 'css_parser', '>= 3.0', '< 4.0'
+    gem 'activesupport', '~> 8.0.5', '>= 8.0.5.2'
     gem 'observer'       # used by jekyll-scholar
     gem 'ostruct'        # used by jekyll-twitter-plugin
     # gem 'terser'         # used by jekyll-terser
@@ -48,7 +50,9 @@ group :al_folio_plugins do
     gem 'al_cookie', '= 1.0.1'
 
     gem 'al_analytics', '= 1.0.2'
-    gem 'al_citations', '= 1.0.1'
+    # Upstream dependency-only fix permits patched ActiveSupport; not yet on RubyGems.
+    gem 'al_citations', '= 1.0.1', git: 'https://github.com/al-org-dev/al-citations.git',
+        ref: 'ef8ab02fbd4f1383d5126616be02afd985f3b355'
     gem 'al_ext_posts', '= 1.0.3'
     gem 'al_img_tools', '= 1.0.3'
     gem 'al_search', '= 1.0.3'
@@ -60,4 +64,9 @@ group :al_folio_plugins do
     gem 'al_email_protect', '= 1.0.1'
     gem 'al_marimo', '= 1.0.0'
     gem 'al_rtl', '= 1.0.0'
+end
+
+# Audit build dependencies locally and in CI.
+group :development do
+    gem 'bundler-audit', '~> 0.9'
 end

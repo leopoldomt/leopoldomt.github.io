@@ -23,6 +23,10 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
+      - name: Audit dependency security
+        run: bin/security-check
+      - name: Check dependency compatibility
+        run: bundle exec ruby test/security_dependencies_test.rb
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Build production site

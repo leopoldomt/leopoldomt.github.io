@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/george-gca/jekyll-3rd-party-libraries",
+  "version": "0.0.1",
+  "source": "RubyGems 0.0.1 installed package",
+  "files": {
+    "jekyll-3rd-party-libraries.rb": "4ec6964143e496468d24082f19cb70d728296d995ca342f58c9197580ecd97da",
+    "jekyll-3rd-party-libraries/version.rb": "75a85c772e0c93f23265d54c58e0043e044e4875b23dfb79d2083c3565a084be"
+  },
+  "local_changes": "Dependency metadata only: require patched css_parser >= 3.0, < 4.0. Runtime lib files unchanged."
+}

@@ -31,3 +31,8 @@ no local runtime overrides. Add future plugins to **both** Gemfile and
 See [migration review and verification](migration/REVIEW.md) and
 [post-review cutover and rollback](migration/CUTOVER.md). No deployment is
 needed to review locally. Only master push/manual runs can publish; PRs build only.
+
+Dependency security checks: run `bin/security-check` and
+`bundle exec ruby test/security_dependencies_test.rb`. See
+[security fixes and validation](docs/SECURITY-FIXES.md) for the pinned upstream
+compatibility commit and local library-loader dependency patch.
