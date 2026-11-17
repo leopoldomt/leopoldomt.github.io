@@ -1,0 +1,37 @@
+{
+  "source_baseline": "dc6897223ef1f37fdef3cd5085f53c5f28d6035f",
+  "source_branch": "master",
+  "upgrade_branch": "upgrade/al-folio-v1.2",
+  "origin": "git@github.com:leopoldomt/leopoldomt.github.io.git",
+  "upstream_tag": "v1.2",
+  "upstream_commit": "b95d6d61a1b0663529094b1b5f4fbe8aa41f8a04",
+  "published_branch": "gh-pages",
+  "published_tip": "fcf047e4c69cbe2eb4514bebf4c99720de24460e",
+  "last_known_good_published_commit": "fcf047e4c69cbe2eb4514bebf4c99720de24460e",
+  "source_build_run": "https://github.com/leopoldomt/leopoldomt.github.io/actions/runs/43036303280",
+  "pages_deployment_run": "https://github.com/leopoldomt/leopoldomt.github.io/actions/runs/43036468087",
+  "pages_settings": {
+    "build_type": "legacy",
+    "branch": "gh-pages",
+    "path": "/"
+  },
+  "initial_worktrees_clean": true,
+  "content_preservation": {
+    "_bibliography": {
+      "files": 1,
+      "changed": []
+    },
+    "_news": {
+      "files": 56,
+      "changed": []
+    },
+    "assets/pdf": {
+      "files": 66,
+      "changed": []
+    },
+    "assets/img": {
+      "files": 24,
+      "changed": []
+    }
+  }
+}
