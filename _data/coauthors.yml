@@ -1,227 +1,276 @@
-"Borba":
-  - firstname: ["Paulo", "P."]
-    url: https://www.cin.ufpe.br/~phmb/
-
-"Gheyi":
-  - firstname: ["Rohit", "R."]
-    url: http://www.dsc.ufcg.edu.br/~rohit/
-
-"Ribeiro":
-  - firstname: ["Márcio", "M."]
-    url: https://sites.google.com/a/ic.ufal.br/marcio/
-
-"Alves": 
-  - firstname: ["Vander", "V."]
-    url: https://cic.unb.br/~valves/
-
-"d'Amorim": 
-  - firstname: ["Marcelo", "M."]
-    url: https://www.cin.ufpe.br/~damorim/
-
-"Apel":
-  - firstname: ["Sven", "S."]
-    url: https://www.se.cs.uni-saarland.de/apel/
-
-"Kulesza": 
-  - firstname: ["Uirá", "Uira", "U."]
-    url: https://www.dimap.ufrn.br/~uira/
-
-"Mongiovi": 
-  - firstname: ["Melina", "M."]
-    url: http://www.dsc.ufcg.edu.br/~spg/Mongiovi/Home.html
-
-"Soares": 
-  - firstname: ["Gustavo", "G."]
-    url: https://gustavoasoares.github.io
-
-"Seidl": 
-  - firstname: ["Christoph", "C."]
-    url: https://scholar.google.de/citations?user=QbqbY4kAAAAJ&hl=de
-
-"Miranda":
-  - firstname: ["Breno", "B."]
-    url: https://cin.ufpe.br/~bafm/
-
-"Sampaio":
-  - firstname: ["Gabriela", "G."]
-    url: https://www.doc.ic.ac.uk/~gcs817/
-
-"Fonseca":
-  - firstname: ["Baldoino", "B."]
-    url: https://sites.google.com/a/ic.ufal.br/baldoino/
-
-"Silva":
-  - firstname: ["Denini", "D."]
-    url: https://denini08.github.io
-
-"Cartaxo":
-  - firstname: ["Bruno", "B."]
-    url: http://brunocartaxo.com
-
-"Schaefer":
-  - firstname: ["Ina", "I."]
-    url: https://www.tu-braunschweig.de/en/isf/team/schaefer
-
-"Oliveira":
-  - firstname: ["Victor", "V."]
-    url: https://www.victorlaerte.com
-
-"Ebert":
-  - firstname: ["Felipe", "F."]
-    url: https://felipeebert.github.io
-
-"Garcia":
-  - firstname: ["Alessandro", "A.", "Alessandro F.", "A. F."]
-    url: http://www-di.inf.puc-rio.br/~afgarcia/
-
-"Souza":
-  - firstname: ["Jairo", "J."]
-    url: http://lattes.cnpq.br/4546756783240359
-
-"Lima":
-  - firstname: ["Rodrigo", "R."]
-    url: https://www.linkedin.com/in/rodrigoliimaa/
-
-"Reps":
-  - firstname: ["Thomas", "T.", "T. W.", "Thomas W."]
-    url: http://pages.cs.wisc.edu/~reps/
-
-"Henkel":
-  - firstname: ["Jordan", "J."]
-    url: https://pages.cs.wisc.edu/~jjhenkel/
-
-"Cordy":
-  - firstname: ["Maxime", "M."]
-    url: https://wwwen.uni.lu/snt/people/maxime_cordy
-
-"Rebelo":
-  - firstname: ["Henrique", "H."]
-    url: https://www.cin.ufpe.br/~hemr/
-
-"Schmid":
-  - firstname: ["Klaus", "K."]
-    url: https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
-
-"Walkingshaw":
-  - firstname: ["Eric", "E."]
-    url: https://eric.walkingshaw.net/
-
-"Mukelabai":
-  - firstname: ["Mukelabai", "M."]
-    url: https://www.chalmers.se/en/staff/Pages/muka.aspx
-
-"Varshosaz":
-  - firstname: ["Mahsa", "M."]
-    url: http://mahsavarshosaz.net
-
-"Botterweck":
-  - firstname: ["Goetz", "G."]
-    url: http://www.botterweck.de
-
-"Kehrer":
-  - firstname: ["Timo", "T."]
-    url: https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse
-
-"Braz":
-  - firstname: ["Larissa", "L."]
-    url: https://www.ifi.uzh.ch/en/zest/team/barbosa.html
-
-"Guo":
-  - firstname: ["Jianmei", "J."]
-    url: https://www.linkedin.com/in/jmguo/
-
-"Schobbens":
-  - firstname: ["Pierre-Yves", "P. Y.", "Pierre", "P."]
-    url: https://directory.unamur.be/staff/pyschobb
-
-"Wasowski":
-  - firstname: ["Andrzej", "A."]
-    url: http://www.itu.dk/people/wasowski/
-
-"Czarnecki":
-  - firstname: ["Krzysztof", "K."]
-    url: https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/people-profiles/krzysztof-czarnecki
-
-"Lanna":
-  - firstname: ["André", "A.", "Andre"]
-    url: https://andrelanna.github.io/
-
-"Bonifácio":
-  - firstname: ["Rodrigo", "R."]
-    url: https://rbonifacio.github.io/
-
-"Bonifacio":
-  - firstname: ["Rodrigo", "R."]
-    url: https://rbonifacio.github.io/
-
-"Cirilo":
-  - firstname: ["Elder", "E."]
-    url: https://dcomp.ufsj.edu.br/~elder/
-
-"Machado":
-  - firstname: ["Ivan", "I."]
-    url: https://sites.google.com/view/ivanmachado
-
-"Mendonça":
-  - firstname: ["Nabor", "N."]
-    url: https://sites.google.com/site/nabormendonca/
-
-"Soares":
-  - firstname: ["Sérgio", "S."]
-    url: https://www.cin.ufpe.br/~scbs/
-
-"Garcia":
-  - firstname: ["Vinicius", "V."]
-    url: https://viniciusgarcia.me
-
-"França":
-  - firstname: ["César", "Cesar", "C."]
-    url: https://about.me/cesarfranca
-
-"Lucrédio":
-  - firstname: ["Daniel", "D."]
-    url: http://www2.dc.ufscar.br/~daniel/
-
-"Thüm":
-  - firstname: ["Thomas", "T."]
-    url: https://www.uni-ulm.de/in/sp/team/thuem/
-
-"Costa":
-  - firstname: ["Felipe", "Felipe Z. Da N."]
-    url: https://zimmerle.org
-
-"Queiroz":
-  - firstname: ["Ruy", "Ruy J. G. B De"]
-    url: https://www.cin.ufpe.br/~ruy/
-
-"Britto":
-  - firstname: ["Gabriela", "Gabriela Araujo"]
-    url: https://www.linkedin.com/in/gabriela-araujo-britto-12755b182/
-
-"Dubslaff":
-  - firstname: ["Clemens", "C."]
-    url: http://clemensdubslaff.de/
-
-"Weis":
-  - firstname: ["Kallistos", "K."]
-    url: https://www.se.cs.uni-saarland.de/people/weis.php
-
-"Bittner":
-  - firstname: ["Paul", "Paul M.", "Paul Maximilian"]
-    url: https://www.uni-paderborn.de/person/105026
-
-"Schultheiß":
-  - firstname: ["Alexander", "A."]
-    url: https://alexanderschultheiss.github.io
-
-"Schultheiss":
-  - firstname: ["Alexander", "A."]
-    url: https://alexanderschultheiss.github.io
-
-"Assunção":
-  - firstname: ["Wesley", "W.", "Wesley K. G.", "W. K. G."]
-    url: https://wesleyklewerton.github.io
-
-"Bonfim":
-  - firstname: ["Andrezza", "A."]
-    url: https://www.linkedin.com/in/andrezzabonfim/
+---
+borba:
+- firstname:
+  - Paulo
+  - P.
+  url: https://www.cin.ufpe.br/~phmb/
+gheyi:
+- firstname:
+  - Rohit
+  - R.
+  url: http://www.dsc.ufcg.edu.br/~rohit/
+ribeiro:
+- firstname:
+  - Márcio
+  - M.
+  url: https://sites.google.com/a/ic.ufal.br/marcio/
+alves:
+- firstname:
+  - Vander
+  - V.
+  url: https://cic.unb.br/~valves/
+d'amorim:
+- firstname:
+  - Marcelo
+  - M.
+  url: https://www.cin.ufpe.br/~damorim/
+apel:
+- firstname:
+  - Sven
+  - S.
+  url: https://www.se.cs.uni-saarland.de/apel/
+kulesza:
+- firstname:
+  - Uirá
+  - Uira
+  - U.
+  url: https://www.dimap.ufrn.br/~uira/
+mongiovi:
+- firstname:
+  - Melina
+  - M.
+  url: http://www.dsc.ufcg.edu.br/~spg/Mongiovi/Home.html
+soares:
+- firstname:
+  - Sérgio
+  - S.
+  url: https://www.cin.ufpe.br/~scbs/
+seidl:
+- firstname:
+  - Christoph
+  - C.
+  url: https://scholar.google.de/citations?user=QbqbY4kAAAAJ&hl=de
+miranda:
+- firstname:
+  - Breno
+  - B.
+  url: https://cin.ufpe.br/~bafm/
+sampaio:
+- firstname:
+  - Gabriela
+  - G.
+  url: https://www.doc.ic.ac.uk/~gcs817/
+fonseca:
+- firstname:
+  - Baldoino
+  - B.
+  url: https://sites.google.com/a/ic.ufal.br/baldoino/
+silva:
+- firstname:
+  - Denini
+  - D.
+  url: https://denini08.github.io
+cartaxo:
+- firstname:
+  - Bruno
+  - B.
+  url: http://brunocartaxo.com
+schaefer:
+- firstname:
+  - Ina
+  - I.
+  url: https://www.tu-braunschweig.de/en/isf/team/schaefer
+oliveira:
+- firstname:
+  - Victor
+  - V.
+  url: https://www.victorlaerte.com
+ebert:
+- firstname:
+  - Felipe
+  - F.
+  url: https://felipeebert.github.io
+garcia:
+- firstname:
+  - Vinicius
+  - V.
+  url: https://viniciusgarcia.me
+souza:
+- firstname:
+  - Jairo
+  - J.
+  url: http://lattes.cnpq.br/4546756783240359
+lima:
+- firstname:
+  - Rodrigo
+  - R.
+  url: https://www.linkedin.com/in/rodrigoliimaa/
+reps:
+- firstname:
+  - Thomas
+  - T.
+  - T. W.
+  - Thomas W.
+  url: http://pages.cs.wisc.edu/~reps/
+henkel:
+- firstname:
+  - Jordan
+  - J.
+  url: https://pages.cs.wisc.edu/~jjhenkel/
+cordy:
+- firstname:
+  - Maxime
+  - M.
+  url: https://wwwen.uni.lu/snt/people/maxime_cordy
+rebelo:
+- firstname:
+  - Henrique
+  - H.
+  url: https://www.cin.ufpe.br/~hemr/
+schmid:
+- firstname:
+  - Klaus
+  - K.
+  url: https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
+walkingshaw:
+- firstname:
+  - Eric
+  - E.
+  url: https://eric.walkingshaw.net/
+mukelabai:
+- firstname:
+  - Mukelabai
+  - M.
+  url: https://www.chalmers.se/en/staff/Pages/muka.aspx
+varshosaz:
+- firstname:
+  - Mahsa
+  - M.
+  url: http://mahsavarshosaz.net
+botterweck:
+- firstname:
+  - Goetz
+  - G.
+  url: http://www.botterweck.de
+kehrer:
+- firstname:
+  - Timo
+  - T.
+  url: https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse
+braz:
+- firstname:
+  - Larissa
+  - L.
+  url: https://www.ifi.uzh.ch/en/zest/team/barbosa.html
+guo:
+- firstname:
+  - Jianmei
+  - J.
+  url: https://www.linkedin.com/in/jmguo/
+schobbens:
+- firstname:
+  - Pierre-Yves
+  - P. Y.
+  - Pierre
+  - P.
+  url: https://directory.unamur.be/staff/pyschobb
+wasowski:
+- firstname:
+  - Andrzej
+  - A.
+  url: http://www.itu.dk/people/wasowski/
+czarnecki:
+- firstname:
+  - Krzysztof
+  - K.
+  url: https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/people-profiles/krzysztof-czarnecki
+lanna:
+- firstname:
+  - André
+  - A.
+  - Andre
+  url: https://andrelanna.github.io/
+bonifacio:
+- firstname:
+  - Rodrigo
+  - R.
+  url: https://rbonifacio.github.io/
+cirilo:
+- firstname:
+  - Elder
+  - E.
+  url: https://dcomp.ufsj.edu.br/~elder/
+machado:
+- firstname:
+  - Ivan
+  - I.
+  url: https://sites.google.com/view/ivanmachado
+mendonca:
+- firstname:
+  - Nabor
+  - N.
+  url: https://sites.google.com/site/nabormendonca/
+franca:
+- firstname:
+  - César
+  - Cesar
+  - C.
+  url: https://about.me/cesarfranca
+lucredio:
+- firstname:
+  - Daniel
+  - D.
+  url: http://www2.dc.ufscar.br/~daniel/
+thum:
+- firstname:
+  - Thomas
+  - T.
+  url: https://www.uni-ulm.de/in/sp/team/thuem/
+costa:
+- firstname:
+  - Felipe
+  - Felipe Z. Da N.
+  url: https://zimmerle.org
+queiroz:
+- firstname:
+  - Ruy
+  - Ruy J. G. B De
+  url: https://www.cin.ufpe.br/~ruy/
+britto:
+- firstname:
+  - Gabriela
+  - Gabriela Araujo
+  url: https://www.linkedin.com/in/gabriela-araujo-britto-12755b182/
+dubslaff:
+- firstname:
+  - Clemens
+  - C.
+  url: http://clemensdubslaff.de/
+weis:
+- firstname:
+  - Kallistos
+  - K.
+  url: https://www.se.cs.uni-saarland.de/people/weis.php
+bittner:
+- firstname:
+  - Paul
+  - Paul M.
+  - Paul Maximilian
+  url: https://www.uni-paderborn.de/person/105026
+schultheiss:
+- firstname:
+  - Alexander
+  - A.
+  url: https://alexanderschultheiss.github.io
+assuncao:
+- firstname:
+  - Wesley
+  - W.
+  - Wesley K. G.
+  - W. K. G.
+  url: https://wesleyklewerton.github.io
+bonfim:
+- firstname:
+  - Andrezza
+  - A.
+  url: https://www.linkedin.com/in/andrezzabonfim/

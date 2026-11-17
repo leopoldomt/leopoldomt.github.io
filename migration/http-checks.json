@@ -1,0 +1,652 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/publications/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/service/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/students/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/teaching/",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/assets/img/lmt.jpg",
+    "status": 200,
+    "type": "image/jpeg"
+  },
+  {
+    "path": "/news/2020-12-03-splc-tutorials/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2020-12-10-capes-humboldt/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2020-12-11-tosem-icst/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2020-12-15-icse/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-01-28-splc-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-03-16-gpce-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-06-14-sosym/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-07-05-sbes/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-07-09-sblp/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-07-30-ase-tools/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-09-27-ast-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-12-06-universal/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2021-12-18-pq/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2022-01-17-splc-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2022-02-07-avh/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2022-04-11-varivolution-keynote/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2022-07-05-sbes/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2022-12-06-zimmerle/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-01-10-vamos/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-02-01-brazil/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-02-25-twins/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-05-01-coord-pos/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-06-05-ist/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-11-10-icse-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2023-12-14-splc-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-02-06-icsme-nier-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-05-02-gpce-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-05-11-icse-nier-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-07-05-sbes-tools/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-07-19-fse/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-08-06-ase/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-08-18-oopsla/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-08-19-sqj/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-09-30-cbsoft/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-10-09-oopsla-artifact/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-10-24-sbmf/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2024-10-28-ase/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-01-16-icse-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-02-09-ase-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-02-12-jserd/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-04-29-icse/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-05-01-sbmf/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-05-20-icse-nier-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-07-28-sblp/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-08-04-sast/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2025-12-18-ase-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-01-20-msr/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-03-18-distinguished-icse-pc/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-04-08-ease/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-05-28-jbcs/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-06-16-sbes/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-07-03-sbes/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-07-16-sblp/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-07-17-ist/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-08-03-cbsoft/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/2026-09-03-sast-award/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/news/index.html",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/assets/pdf/2009-sbcars-tools.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2010-ictac.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2010-onward.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2011-gpce.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2011-sbes.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2012-tcs.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2013-jss.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2013-splc.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2014-re.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2014-scp.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2015-gpce.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2015-jss.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2015-splc-1.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2015-splc-2.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2016-emse.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2016-gpce.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2016-sbcars.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2016-splc.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2018-comlan.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2018-sast.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2018-scp.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2018-tse.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2019-jss.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2019-sbes.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2019-seh.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2019-vamos.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2019-varivolution.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-icsme.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-saner.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-sbes-1.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-sbes-2.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-sbmf-1.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-sbmf-2.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2020-varivolution.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-icse.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-icst.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-ist.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-sbes.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-sblp.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-sosym.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2021-tosem.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2022-ieee-access.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2022-sbes-1.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2022-sbes-2.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2023-ist.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2023-sbqs.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2024-ase.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2024-jserd.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2024-oopsla.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2024-sbes.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2024-sqj.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2025-jserd.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2025-sast.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2025-sblp.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-ease.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-ist.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-jbcs.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-msr-mining.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sast.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sbcars.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sbes-andrezza.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sbes-arthur.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sbes-jairo.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-sblp.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/2026-vem.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  },
+  {
+    "path": "/assets/pdf/example_pdf.pdf",
+    "status": 200,
+    "type": "application/pdf"
+  }
+]

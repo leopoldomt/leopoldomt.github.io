@@ -1,0 +1,9 @@
+#!/bin/sh
+set -eu
+cd "$(dirname "$0")/.."
+# Homebrew Ruby is required on macOS; system Ruby 2.6 cannot run v1.2.
+if [ -d /opt/homebrew/opt/ruby@3.3/bin ]; then
+  PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+  export PATH
+fi
+exec bundle exec jekyll serve --host 127.0.0.1 --port 4000 --destination _site_preview --livereload "$@"
