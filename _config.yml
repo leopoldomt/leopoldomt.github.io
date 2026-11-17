@@ -128,6 +128,7 @@ exclude:
 - AGENTS.md
 - al-folio-upgrade-report.md
 - bin/
+- test/
 - CLAUDE.md
 - Dockerfile
 - docker-compose.yml
